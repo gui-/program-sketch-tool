@@ -43,7 +43,7 @@ After the installation it is **important** to restart DrRacket, in order to load
 
 ![image](https://cloud.githubusercontent.com/assets/3803770/14906201/986dfac2-0db0-11e6-9152-0554751fd86a.png) 
 
-* To change an arrow target press <kbd>ctrl</kbd> + right click on the desired target symbol 
+* To change an arrow target press <kbd>ctrl</kbd> + right click and point to the desired location where you want the arrow to point. Note: it must be inside the image space. 
 
 ![image](https://cloud.githubusercontent.com/assets/3803770/14906124/058ade8c-0db0-11e6-8ccf-ec7f2502c856.png)
 
