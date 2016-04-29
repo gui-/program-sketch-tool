@@ -1,5 +1,3 @@
-funcional
-
 program-sketch-tool
 ===================
 
