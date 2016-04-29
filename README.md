@@ -30,11 +30,14 @@ You can install this module quickly using the Package Manager, to this end proce
 After the installation it is **important** to restart DrRacket, in order to load all plugins.
 
 #### Sketch utilization
-* To use the sketches in the program, the functions must have the following structure:
+* To use the sketches in the program, you must have the following structure:
 
 ```racket
-(define (foo bar baz)
-  ;image here
+#lang racket
+(require image-data-snip)
+
+(define (my-function foo bar baz)
+  ;image here that illustrates foo,bar, and baz
   ;function body here
   )
 ```
