@@ -7,7 +7,7 @@ The program-sketch tool is a set of programming tools build on top of Dracket.
 
 You can install this module quickly using the Package Manager, to this end proceed to the following steps:
 
-* **Note:** make sure you've installed the [image-data-snip](https://github.com/gui-/program-sketch-tool) class.
+* **Note:** make sure you've installed the [image-data-snip](https://github.com/gui-/image-data-snip) class.
 * open DrRacket
 * then, go to `File > Package Manager...`
 * in the field `Package Source` paste the following link
